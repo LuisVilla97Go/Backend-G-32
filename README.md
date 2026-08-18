@@ -2,7 +2,7 @@
 
 En este repositorio podrás encontrar toda la información sobre convertirte en un gran desarrollador Backend.
 
-Que esperás ára ser un **gran programador**
+Que esperás para ser un **gran programador**
 
 > Para ser un gran programador tienes que practicar mucho!
 
